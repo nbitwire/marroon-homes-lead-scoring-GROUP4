@@ -1,0 +1,9 @@
+property_id,type,price,location,bedrooms
+PROP_001,Townhouse,650000,Toronto,3
+PROP_002,Apartment,450000,Mississauga,2
+PROP_003,Townhouse,580000,Brampton,3
+PROP_004,Detached,850000,Toronto,4
+PROP_005,Apartment,380000,Hamilton,2
+PROP_006,Luxury,1200000,Toronto,4
+PROP_007,Off-Plan,520000,Ottawa,3
+PROP_008,Townhouse,620000,Vaughan,3
